@@ -1,7 +1,7 @@
 # Скриншоты выполненных курсов
 
-![HTML proof](./images/html.png)
+![HTML proof](./html.png)
 
-![CSS proof](./images/css.png)
+![CSS proof](./css.png)
 
-![JS prood](./images/js.png)
+![JS prood](./js.png)
